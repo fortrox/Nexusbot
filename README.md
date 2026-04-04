@@ -1,2 +1,0 @@
-# Nexusbot
-Bot
